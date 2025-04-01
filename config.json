@@ -4,14 +4,14 @@
         "password": "",
         "time": ["09:00","21:00"],
         "roomid":"6676",
-        "seatid":["138"],
+        "seatid":["196"],
         "daysofweek": ["Tuesday", "Wednesday", "Thursday"]
     },
         {"username": "",
         "password": "",
         "time": ["14:00","22:00"],
         "roomid":"6676",
-        "seatid":["138"],
+        "seatid":["196"],
         "daysofweek": ["Monday" , "Friday"]
     }
     ]
